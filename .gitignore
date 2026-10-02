@@ -1,0 +1,10 @@
+# Windows & System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# GX Works / Backup Files
+*.bak
+*.tmp
+*.log
